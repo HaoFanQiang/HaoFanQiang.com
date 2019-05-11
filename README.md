@@ -14,6 +14,10 @@
 
 | [Telegram](https://telegram.org/) | [ Snapchat](https://www.snapchat.com/) | [Whatsapp](https://www.whatsapp.com/) | [LINE](https://line.me/) |
 
+## 信息查询 ##
+
+| [Google](https://www.google.com/) | [ DuckDuckGo](https://duckduckgo.com/) | [ 维基百科中文](https://zh.wikipedia.org/) | [Internet Archive](https://archive.org/) | 
+
 ## 博客平台 ##
 
 | [WordPress](https://wordpress.com/) | [ Blogger](https://www.blogger.com/) | [Medium](https://www.medium.com/) |
@@ -21,6 +25,10 @@
 ## 影音图片 ##
 
 | [Youtube](http://youtube.com/) | [ Vimeo](https://vimeo.com/) | [Netflix](https://www.netflix.com/) | [Hulu](http://www.hulu.com/) | [  Pinterest](https://www.pinterest.com/) | [Google Photos](https://photos.google.com/) |
+
+## 新闻媒体 ##
+
+| [纽约时报中文网](http://cn.nytimes.com/) | [ BBC中文网](http://bbc.co.uk/chinese/) | [ 路透社中文网](http://cn.reuters.com/) | [华尔街日报](http://cn.wsj.com/) | [  德国之声](http://www.dw.com/zh) | [法国广播电台](http://chinese.rfi.fr/) | [朝鲜日报网](http://cnnews.chosun.com/) | [日本共同网](http://china.kyodonews.jp/) | [朝日新闻中文网](http://asahichinese.com/) | [新加坡联合早报](http://www.zaobao.com.sg/) | [ 香港苹果日报](http://hk.apple.nextmedia.com/) | [香港明报](http://mingpao.com/) | [ 台湾联合新闻网](http://udn.com/) | [台湾中央通讯社](http://www.cna.com.tw/) |
 
 ## 翻墙工具 ##
 
