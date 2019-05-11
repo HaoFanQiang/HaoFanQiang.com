@@ -4,12 +4,12 @@
 
 ## 常用网站 ##
 
-| [Google](https://www.google.com/) | [Gmail](https://www.gmail.com/) | [YouTube](https://www.youtube.com/) |[Facebook](https://www.facebook.com/) |[Twitter](https://www.twitter.com/) |
+| [Google](https://www.google.com/) | [Gmail](https://www.gmail.com/) | [YouTube](https://www.youtube.com/) | [Facebook](https://www.facebook.com/) | [Twitter](https://www.twitter.com/) |
 
 ## 社交网络 ##
 
-| [Reddit](https://www.reddit.com/) | [Tumblr](http://www.tumblr.com/) | [Instagram](https://www.instagram.com/) |[Facebook](https://www.facebook.com/) |[Twitter](https://www.twitter.com/) |
+| [Reddit](https://www.reddit.com/) | [Tumblr](http://www.tumblr.com/) | [Instagram](https://www.instagram.com/) | [Facebook](https://www.facebook.com/) | [Twitter](https://www.twitter.com/) |
 
 ## 即时通讯 ##
 
-| [Telegram](https://telegram.org/) | [ Snapchat](https://www.snapchat.com/) | [Whatsapp](https://www.whatsapp.com/) |[LINE](https://line.me/) |
+| [Telegram](https://telegram.org/) | [ Snapchat](https://www.snapchat.com/) | [Whatsapp](https://www.whatsapp.com/) | [LINE](https://line.me/) |
