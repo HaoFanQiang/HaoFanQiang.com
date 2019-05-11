@@ -28,7 +28,9 @@
 
 ## 新闻媒体 ##
 
-| [纽约时报中文网](http://cn.nytimes.com/) | [ BBC中文网](http://bbc.co.uk/chinese/) | [ 路透社中文网](http://cn.reuters.com/) | [华尔街日报](http://cn.wsj.com/) | [  德国之声](http://www.dw.com/zh) | [法国广播电台](http://chinese.rfi.fr/) | [朝鲜日报网](http://cnnews.chosun.com/) | [日本共同网](http://china.kyodonews.jp/) | [朝日新闻中文网](http://asahichinese.com/) | [新加坡联合早报](http://www.zaobao.com.sg/) | [ 香港苹果日报](http://hk.apple.nextmedia.com/) | [香港明报](http://mingpao.com/) | [ 台湾联合新闻网](http://udn.com/) | [台湾中央通讯社](http://www.cna.com.tw/) |
+| [纽约时报中文网](http://cn.nytimes.com/) | [ BBC中文网](http://bbc.co.uk/chinese/) | [ 路透社中文网](http://cn.reuters.com/) | [华尔街日报](http://cn.wsj.com/) | [  德国之声](http://www.dw.com/zh) | 
+| [法国广播电台](http://chinese.rfi.fr/) | [朝鲜日报网](http://cnnews.chosun.com/) | [日本共同网](http://china.kyodonews.jp/) | [朝日新闻中文网](http://asahichinese.com/) | [新加坡联合早报](http://www.zaobao.com.sg/) |
+| [ 香港苹果日报](http://hk.apple.nextmedia.com/) | [香港明报](http://mingpao.com/) | [ 台湾联合新闻网](http://udn.com/) | [台湾中央通讯社](http://www.cna.com.tw/) |
 
 ## 翻墙工具 ##
 
