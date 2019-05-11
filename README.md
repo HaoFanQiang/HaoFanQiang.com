@@ -13,9 +13,3 @@
 | :------:| :------: | :------: |:------: |:------: |
 | [Google](https://www.google.com/) | [Gmail](https://www.gmail.com/) | [YouTube](https://www.youtube.com/) |[Facebook](https://www.facebook.com/) |[Twitter](https://www.twitter.com/) |
 
-
-## :page_facing_up:JavaWeb技术 ##
-
-| :ledger:Servlet+Tomcat | :microscope:JSP | :ring:JDBC | :tshirt:XML和JSON |:ribbon:过滤器和监听器 |:rice:Web前端 |:ramen:AJAX |:hamburger:Web小项目 |
-| :------:| :------: | :------: |:------: |:------: |:------: |:------: |:------: |
-| [Servlet+Tomcat](src/servlet.md) | [JSP](src/jsp.md) | [JDBC](src/jdbc.md) |[XML和JSON](src/xml&json.md) |[过滤器和监听器](src/filter&listener.md) |[Web前端](src/web.md) |[AJAX](src/ajax.md) |[Web小项目](src/javawebproject.md) |
