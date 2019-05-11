@@ -24,7 +24,7 @@
 
 ## 影音图片 ##
 
-| [Youtube](http://youtube.com/) | [ Vimeo](https://vimeo.com/) | [Netflix](https://www.netflix.com/) | [Hulu](http://www.hulu.com/) | [  Pinterest](https://www.pinterest.com/) | [Google Photos](https://photos.google.com/) |
+| [Youtube](http://youtube.com/) | [ Vimeo](https://vimeo.com/) | [Netflix](https://www.netflix.com/) | [Hulu](http://www.hulu.com/) | [  Pinterest](https://www.pinterest.com/) | [Google Photos](https://photos.google.com/) | [Flickr](http://flickr.com/) |
 
 ## 新闻媒体 ##
 
@@ -32,6 +32,18 @@
 | [法国广播电台](http://chinese.rfi.fr/) | [朝鲜日报网](http://cnnews.chosun.com/) | [日本共同网](http://china.kyodonews.jp/) | [朝日新闻中文网](http://asahichinese.com/) | [新加坡联合早报](http://www.zaobao.com.sg/) |
 | [ 香港苹果日报](http://hk.apple.nextmedia.com/) | [香港明报](http://mingpao.com/) | [ 台湾联合新闻网](http://udn.com/) | [台湾中央通讯社](http://www.cna.com.tw/) |
 | [路透社](http://cn.reuters.com/) | [美联社](https://www.ap.org/) | 
+
+## 文件分享 ##
+
+| [海盗湾](http://thepiratebay.org/) | [ Saveyoutube](http://saveyoutube.com/) | [MediaFire](https://www.mediafire.com/) | [ Slideshare](http://slideshare.net/) |
+
+## 1024 ##
+
+| [ 草榴社區](https://www.t66y.com) | [ 1024网站目录](https://theporndude.com/zh) | 
+
+## 安全隐私 ##
+
+| [粉碎棱镜](https://prism-break.org/zh-CN/) | 
 
 ## 翻墙工具 ##
 
